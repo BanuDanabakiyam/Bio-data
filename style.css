@@ -1,0 +1,45 @@
+body{
+    background-color: dimgray;
+}
+.header{
+    text-align: center;
+    font-size: 16px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    position: absolute;
+    margin-left: 24%;
+    width: 100px;
+    height: 30px;
+    border-color: darkgreen;
+    background-color: rgb(72, 59, 59);
+    border-radius: 5px;
+    color: white
+
+}
+button:hover{
+    color: black;
+    background-color: wheat;
+}
+.first{
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+.firstInput{
+    margin-left: 40%;
+    margin-bottom: 10px;
+}
+.print{
+    margin-bottom: 5px;
+}
+.print1{
+    margin-top: 20%;
+}
+button{
+    
+}
+
